@@ -1,6 +1,9 @@
 {
-  "item.tutorialmod.sapphire" : "Sapphire",
-  "item.tutorialmod.raw_sapphire" : "Raw_sapphire",
+  "item.tutorialmod.sapphire" : "zaffiro",
+  "item.tutorialmod.raw_sapphire" : "zaffiro grezzo",
+
+  "block.tutorialmod.sapphire_block" : "blocco di zaffiro",
+  "block.tutorialmod.raw_sapphire_block" : "blocco di zaffiro grezzo",
 
   "creativetab.tutorial_tab": "ores by manu"
 }
