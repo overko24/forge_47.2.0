@@ -21,10 +21,21 @@ public class ModCreativeModTabs {
                             .displayItems((pParameters, pOutput) -> {
                                 pOutput.accept(ModItems.SAPPHIRE.get());
                                 pOutput.accept(ModItems.RAW_SAPPHIRE.get());
+                                pOutput.accept(ModItems.METAL_DETECTOR.get());
+                                pOutput.accept(ModItems.SAPPHIRE_AXE.get());
+                                pOutput.accept(ModItems.SAPPHIRE_PICKAXE.get());
+                                pOutput.accept(ModItems.SAPPHIRE_HOE.get());
+                                pOutput.accept(ModItems.SAPPHIRE_SWORD.get());
+                                pOutput.accept(ModItems.SAPPHIRE_SHOVEL.get());
 
 
                                 pOutput.accept(ModBlocks.SAPPHIRE_BLOCK.get());
                                 pOutput.accept(ModBlocks.RAW_SAPPHIRE_BLOCK.get());
+                                pOutput.accept(ModBlocks.SAPPHIRE_ORE.get());
+
+
+
+
                                     })
                     .build());
 
