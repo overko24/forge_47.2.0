@@ -18,6 +18,9 @@ public class ModBlocksStateProvider extends BlockStateProvider {
         blockWithItem(ModBlocks.SAPPHIRE_BLOCK);
         blockWithItem(ModBlocks.RAW_SAPPHIRE_BLOCK);
         blockWithItem(ModBlocks.SAPPHIRE_ORE);
+        blockWithItem(ModBlocks.RUBY_ORE);
+        blockWithItem(ModBlocks.RUBY_BLOCK);
+
     }
 
     private void blockWithItem(RegistryObject<Block> blockRegistryObject) {

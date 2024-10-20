@@ -2,6 +2,8 @@
   "values": [
     "tutorialmod:sapphire_block",
     "tutorialmod:raw_sapphire_block",
+    "tutorialmod:ruby_block",
+    "tutorialmod:ruby_ore",
     "tutorialmod:sapphire_ore"
   ]
 }

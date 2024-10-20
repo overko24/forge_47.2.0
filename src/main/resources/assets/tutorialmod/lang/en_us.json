@@ -1,6 +1,8 @@
 {
   "item.tutorialmod.sapphire": "Sapphire",
   "item.tutorialmod.raw_sapphire": "Raw Sapphire",
+  "item.tutorialmod.ruby": "ruby",
+  "item.tutorialmod.raw_ruby": "raw ruby",
 
   "item.tutorialmod.metal_detector": "Metal Detector",
   "item.tutorialmod.sapphire_staff": "Sapphire Staff",
@@ -18,6 +20,8 @@
 
   "block.tutorialmod.sound_block": "Sound Block",
 
+  "block.tutorialmod.ruby_ore": "Ruby Ore",
+  "block.tutorialmod.ruby_block": "Block of Ruby",
 
   "tooltip.tutorialmod.metal_detector.tooltip": "Finds valuables underground!",
 

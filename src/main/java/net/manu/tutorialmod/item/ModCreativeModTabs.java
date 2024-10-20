@@ -33,7 +33,10 @@ public class ModCreativeModTabs {
                                 pOutput.accept(ModBlocks.RAW_SAPPHIRE_BLOCK.get());
                                 pOutput.accept(ModBlocks.SAPPHIRE_ORE.get());
 
-
+                                pOutput.accept(ModItems.RUBY.get());
+                                pOutput.accept(ModItems.RAW_RUBY.get());
+                                pOutput.accept(ModBlocks.RUBY_ORE.get());
+                                pOutput.accept(ModBlocks.RUBY_BLOCK.get());
 
 
                                     })

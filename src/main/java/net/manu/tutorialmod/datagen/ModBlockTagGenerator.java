@@ -26,7 +26,10 @@ public class ModBlockTagGenerator extends BlockTagsProvider {
         this.tag(BlockTags.MINEABLE_WITH_PICKAXE)
                 .add(ModBlocks.SAPPHIRE_BLOCK.get(),
                         ModBlocks.RAW_SAPPHIRE_BLOCK.get(),
+                        ModBlocks.RUBY_BLOCK.get(),
+                        ModBlocks.RUBY_ORE.get(),
                         ModBlocks.SAPPHIRE_ORE.get());
+
 
 
 

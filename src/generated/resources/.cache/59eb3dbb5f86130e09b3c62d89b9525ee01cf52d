@@ -1,4 +1,6 @@
-// 1.20.1	2024-10-20T12:43:44.5148335	Loot Tables
+// 1.20.1	2024-10-20T16:17:59.6583645	Loot Tables
 81e9322ae4c5141fd110a8f87cc92d7af008fd1e data/tutorialmod/loot_tables/blocks/raw_sapphire_block.json
+e0d215bbde990fd2f6b925b06c967165dcb8f8df data/tutorialmod/loot_tables/blocks/ruby_block.json
+3c82c5fe318a46e46c09d3bce8b9bd8a3501af90 data/tutorialmod/loot_tables/blocks/ruby_ore.json
 d844cbb192590a5e4278fd1a5c5906e40c594e24 data/tutorialmod/loot_tables/blocks/sapphire_block.json
 aa2b1c8deec50b57ad0574814e62f77133a5f3f5 data/tutorialmod/loot_tables/blocks/sapphire_ore.json
